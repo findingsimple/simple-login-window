@@ -32,7 +32,7 @@
         #cboxTitle{}
         #cboxCurrent{}
         #cboxSlideshow, #cboxPrevious, #cboxNext, #cboxClose{}
-		#cboxClose{position:absolute;display:block;width:30px;height:30px;background:transparent url(img/cboxClose.png) no-repeat scroll top left;top:0px;right:0px;text-indent:-9999px;}
+		#cboxClose{position:absolute;display:block;width:40px;height:40px;background:transparent url(img/cboxClose.png) no-repeat scroll top left;top:-12px;right:-12px;text-indent:-9999px;}
         .cboxSlideshow_on #cboxPrevious, .cboxSlideshow_off #cboxPrevious{}
         .cboxSlideshow_on #cboxSlideshow{}
         .cboxSlideshow_on #cboxSlideshow:hover{}
